@@ -94,7 +94,7 @@ const CareerPage = () => {
           className="bg-cover bg-center h-[500px]  flex items-center justify-center text-white "
           style={{ backgroundImage: `url(${bgImage})` }}
         >
-          <h1 className="text-6xl text-white ">Our Services</h1>
+          <h1 className="text-6xl text-white ">Career</h1>
         </div>
       </div>
       {/* COVER BG ENDS  */}
