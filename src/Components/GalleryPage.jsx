@@ -10,7 +10,7 @@ const GalleryPage = () => {
           className="bg-cover bg-center h-[500px] flex items-center justify-center text-white "
           style={{ backgroundImage: `url(${bgImage})` }}
         >
-          <h1 className="text-6xl text-white ">About us</h1>
+          <h1 className="text-6xl text-white ">Gallery</h1>
         </div>
       </div>
 
